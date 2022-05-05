@@ -1,0 +1,12 @@
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\bin\Debug\Colgado.exe.config
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\bin\Debug\Colgado.exe
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\bin\Debug\Colgado.pdb
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\bin\Debug\Colgado.xml
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.vbprojAssemblyReference.cache
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.Form1.resources
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.Resources.resources
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.vbproj.GenerateResource.cache
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.exe
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.xml
+C:\Users\Nicolas\Downloads\USM\Segundo Semestre\POE\Colgado Tarea 3 Nicolas Martinez\Colgado\obj\Debug\Colgado.pdb
